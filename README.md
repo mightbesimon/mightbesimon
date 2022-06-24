@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Simon 👋
 
-<!--
-**mightbesimon/mightbesimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Kia ora, ko Simon ahau  
+> Hallo, ich heiße Simon 😎  
+> Salut, moi c'est Simon 😏  
+> Dia duit, is mise Simon 😙  
+> 嗨, 我叫单泉
 
-Here are some ideas to get you started:
+Auckland, NZ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/24px-Instagram_logo_2016.svg.png)](https://www.instagram.com/definitely.not_simon)
+[![facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/24px-Facebook_icon_2013.svg.png)]()
+
