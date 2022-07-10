@@ -10,13 +10,13 @@
 🇨🇳 嗨, 我叫单泉</pre>
 			<p>Auckland, NZ 🛫 San Jose, CA</p>
 			<a href="https://www.instagram.com/definitely.not_simon">
-				<img alt="instagram" src="assets/instagram.svg" />
+				<img width="24" alt="instagram" src="assets/instagram.svg" />
 			</a>
 			<a href="https://github.com/mightbesimon">
-				<img alt="github" src="assets/github.svg" />
+				<img width="24" alt="github" src="assets/github.svg" />
 			</a>
 			<a href="https://www.linkedin.com/in/mightbesimon">
-				<img alt="LinkedIn" src="assets/linkedin.svg" />
+				<img width="24" alt="LinkedIn" src="assets/linkedin.svg" />
 			</a>
 		</td>
 		<td>
