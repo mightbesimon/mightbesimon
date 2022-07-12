@@ -18,9 +18,12 @@
 			<a href="https://www.linkedin.com/in/mightbesimon">
 				<img width="24" alt="LinkedIn" src="assets/linkedin.svg" />
 			</a>
+			<a href="https://mightbesimon.com">
+				<img width="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
+			</a>
 		</td>
 		<td>
-			<a href="https://github.com/mightbesimon">
+			<a href="https://mightbesimon.com">
 				<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=mightbesimon&show_icons=true&theme=dracula" />
 			</a>
 		</td>
