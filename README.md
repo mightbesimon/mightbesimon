@@ -37,3 +37,9 @@ os:     MacOS
 editor: sublime | vscode
 theme:  mariana
 ```
+
+add this to `.bash_profile`, thank me later
+
+```bash
+alias firealarm=$'git checkout main && git commit -a -m \'[draft] fire alarm\' && git push --force --set-upstream origin main'
+```
