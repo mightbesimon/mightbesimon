@@ -21,6 +21,9 @@
 			<a href="https://mightbesimon.com">
 				<img width="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
 			</a>
+			<a href="https://github.com/sponsors/mightbesimon">
+				💵
+			</a>
 		</td>
 		<td>
 			<a href="https://mightbesimon.com">
