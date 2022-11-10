@@ -36,10 +36,14 @@
 Mostly, I push to DevOps so the commits don't show up here :(
 
 ```
-os:     MacOS
-editor: sublime | vscode
-theme:  mariana
+💻 os:     MacOS
+🧑‍💻 editor: vscode | sublime
+🎨 theme:  mariana
 ```
+
+📦 vscode extensions:
+`mightbesimon.emoji-icons`
+`mightbesimon.mariana-sublime`
 
 add this to `.bash_profile`, thank me later
 
