@@ -8,21 +8,29 @@
 🇫🇷 Salut, moi c'est Simon 😏
 🇮🇪 Dia duit, is mise Simon 😙
 🇨🇳 嗨, 我叫单泉</pre>
-			<p>Auckland, NZ 🛫 San Jose, CA</p>
+			<p>
+				<a href="mightbesimon.com">
+					mightbesimon.com
+				</a>&nbsp;&nbsp;|&nbsp;&nbsp;Auckland, NZ
+			</p>
 			<a href="https://www.instagram.com/definitely.not_simon">
-				<img width="24" alt="instagram" src="assets/instagram.svg" />
+				<img height="24" alt="instagram" src="assets/instagram.svg" />
 			</a>
+			&nbsp;
 			<a href="https://github.com/mightbesimon">
-				<img width="24" alt="github" src="assets/github.svg" />
+				<img height="24" alt="github" src="assets/github.svg" />
 			</a>
+			&nbsp;
 			<a href="https://www.linkedin.com/in/mightbesimon">
-				<img width="24" alt="LinkedIn" src="assets/linkedin.svg" />
+				<img height="24" alt="LinkedIn" src="assets/linkedin.svg" />
 			</a>
+			&nbsp;
 			<a href="https://mightbesimon.com">
-				<img width="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
+				<img height="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
 			</a>
+			&nbsp;&nbsp;
 			<a href="https://github.com/sponsors/mightbesimon">
-				💵
+				<img height="24" alt="LinkedIn" src="assets/sponsor.svg" />
 			</a>
 		</td>
 		<td>
@@ -33,17 +41,17 @@
 	</tr>
 </table>
 
-Mostly, I push to DevOps so the commits don't show up here :(
-
 ```
 💻 os:     MacOS
 🧑‍💻 editor: vscode | sublime
 🎨 theme:  mariana
 ```
 
+```
 📦 vscode extensions:
-`mightbesimon.emoji-icons`
-`mightbesimon.mariana-sublime`
+	mightbesimon.emoji-icons
+	mightbesimon.mariana-sublime
+```
 
 add this to `.bash_profile`, thank me later
 
