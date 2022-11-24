@@ -47,14 +47,19 @@
 🎨 theme:  mariana
 ```
 
+📦 vscode themes:
+
 ```
-📦 vscode extensions:
-	mightbesimon.emoji-icons
-	mightbesimon.mariana-sublime
+🎨 colour:     mightbesimon.mariana-sublime
+📂 icon-theme: mightbesimon.emoji-icons
 ```
 
 add this to `.bash_profile`, thank me later
 
 ```bash
-alias firealarm=$'git checkout main && git commit -a -m \'[draft] fire alarm\' && git push --force --set-upstream origin main'
+function firealarm() {
+	git checkout --force main
+	git commit -a -m 🔥🚨
+	git push --force origin main
+}
 ```
