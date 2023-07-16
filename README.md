@@ -30,7 +30,7 @@
 			</a>
 			&nbsp;&nbsp;
 			<a href="https://github.com/sponsors/mightbesimon">
-				<img height="24" alt="LinkedIn" src="assets/sponsor.svg" />
+				<img height="24" alt="sponsor" src="https://img.shields.io/badge/-Sponsor_me_%e2%98%ba-%23d73a49" />
 			</a>
 		</td>
 		<td>
@@ -42,7 +42,7 @@
 </table>
 
 ```
-💻 os:     MacOS
+💻 os:     macOS
 🧑‍💻 editor: vscode | sublime
 🎨 theme:  mariana
 ```
@@ -53,6 +53,8 @@
 🎨 colour:     mightbesimon.mariana-sublime
 📂 icon-theme: mightbesimon.emoji-icons
 ```
+
+![terminal](assets/terminal.png)
 
 add this to `.bash_profile`, thank me later
 
