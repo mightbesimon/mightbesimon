@@ -17,10 +17,6 @@
 				<img height="24" alt="instagram" src="assets/instagram.svg" />
 			</a>
 			&nbsp;
-			<a href="https://github.com/mightbesimon">
-				<img height="24" alt="github" src="assets/github.svg" />
-			</a>
-			&nbsp;
 			<a href="https://www.linkedin.com/in/mightbesimon">
 				<img height="24" alt="LinkedIn" src="assets/linkedin.svg" />
 			</a>
@@ -34,8 +30,11 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://mightbesimon.com">
+			<!-- <a href="https://mightbesimon.com">
 				<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=mightbesimon&show_icons=true&theme=dracula" />
+			</a> -->
+			<a href="https://github.com/mightbesimon/profile.bash">
+				<img alt="terminal" src="assets/terminal.png">
 			</a>
 		</td>
 	</tr>
@@ -53,8 +52,6 @@
 🎨 colour:     mightbesimon.mariana-sublime
 📂 icon-theme: mightbesimon.emoji-icons
 ```
-
-![terminal](assets/terminal.png)
 
 add this to `.bash_profile`, thank me later
 
