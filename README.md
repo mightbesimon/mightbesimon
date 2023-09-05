@@ -26,7 +26,7 @@
 			</a>
 			&nbsp;&nbsp;
 			<a href="https://github.com/sponsors/mightbesimon">
-				<img height="24" alt="sponsor" src="https://img.shields.io/badge/-Sponsor_me_%e2%98%ba-%23d73a49" />
+				<img height="24" alt="sponsor" src="https://img.shields.io/badge/%F0%9F%91%89_Sponsor_%F0%9F%91%88-d73a49" />
 			</a>
 		</td>
 		<td>
