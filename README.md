@@ -1,64 +1,80 @@
-### Hi, I'm Simon 👋
-
 <table>
 	<tr>
-		<td>
-<pre>🇳🇿 Kia ora,
+		<td colspan="4">
+			<pre>
+🇳🇿 Kia ora,
 🇩🇪 Hallo, ich heiße Simon 😎
 🇫🇷 Salut, moi c'est Simon 😏
 🇮🇪 Dia duit, is mise Simon 😙
 🇨🇳 嗨, 我叫单泉</pre>
-			<p>
-				<a href="mightbesimon.com">
-					mightbesimon.com
-				</a>&nbsp;&nbsp;|&nbsp;&nbsp;Auckland, NZ
-			</p>
-			<a href="https://www.instagram.com/definitely.not_simon">
-				<img height="24" alt="instagram" src="assets/instagram.svg" />
-			</a>
-			&nbsp;
-			<a href="https://www.linkedin.com/in/mightbesimon">
-				<img height="24" alt="LinkedIn" src="assets/linkedin.svg" />
-			</a>
-			&nbsp;
-			<a href="https://mightbesimon.com">
-				<img height="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
-			</a>
-			&nbsp;&nbsp;
-			<a href="https://github.com/sponsors/mightbesimon">
-				<img height="24" alt="sponsor" src="https://img.shields.io/badge/%F0%9F%91%89_Sponsor_%F0%9F%91%88-d73a49" />
-			</a>
 		</td>
-		<td>
-			<!-- <a href="https://mightbesimon.com">
-				<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=mightbesimon&show_icons=true&theme=dracula" />
-			</a> -->
+		<td rowspan="5">
 			<a href="https://github.com/mightbesimon/profile.bash">
 				<img alt="terminal" src="assets/terminal.png">
 			</a>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="4">
+			<pre><h1>Hi, I'm Simon 👋</h1></pre>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<a href="https://mightbesimon.com">mightbesimon.com</a>
+		</td>
+		<td>
+			Auckland, NZ
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.instagram.com/definitely.not_simon">
+				<img height="24" alt="instagram" src="assets/instagram.svg" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/in/mightbesimon">
+				<img height="24" alt="LinkedIn" src="assets/linkedin.svg" />
+			</a>
+		</td>
+		<td>
+			<a href="https://mightbesimon.com">
+				<img height="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/sponsors/mightbesimon">
+				<img height="24" alt="sponsor" src="https://img.shields.io/badge/%F0%9F%91%89_Sponsor_%F0%9F%91%88-d73a49" />
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<pre>
+💻╌╌╌╌╌ os : macOS
+🐚╌╌ shell : /bin/bash
+🧑‍💻╌ editor : [ vscode, sublime ]
+🎨╌╌ theme : mariana</pre>
+		</td>
+	</tr>
 </table>
 
-```
-💻 os:     macOS
-🧑‍💻 editor: vscode | sublime
-🎨 theme:  mariana
-```
+## My VS Marketplace Publisher Profile
 
-📦 vscode themes:
+> https://marketplace.visualstudio.com/publishers/mightbesimon
 
-```
-🎨 colour:     mightbesimon.mariana-sublime
-📂 icon-theme: mightbesimon.emoji-icons
-```
+vscode extension | version | installs | marketplace id
+---------------- | ------- | -------- | --------------
+Emoji File Icons | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.emoji-icons?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.emoji-icons?color=white&label=&logo=visualstudiocode&logoColor=blue) | [mightbesimon.emoji-icons](https://marketplace.visualstudio.com/items?itemName=mightbesimon.emoji-icons)
+Mariana | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.mariana-sublime?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.mariana-sublime?color=white&label=&logo=visualstudiocode&logoColor=blue) | [mightbesimon.mariana-sublime](https://marketplace.visualstudio.com/items?itemName=mightbesimon.mariana-sublime)
 
-add this to `.bash_profile`, thank me later
+## My pypi.org Publisher Profile
 
-```bash
-function firealarm() {
-	git checkout --force main
-	git commit -a -m 🔥🚨
-	git push --force origin main
-}
-```
+> https://pypi.org/user/mightbesimon/
+
+python package | version | link
+-------------- | ------- | ----
+lifehacks.metaclasses | ![version](https://img.shields.io/pypi/v/lifehacks.metaclasses?label=) | https://pypi.org/project/lifehacks.metaclasses/
+lifehacks.colour | ![version](https://img.shields.io/pypi/v/lifehacks.colour?label=) | https://pypi.org/project/lifehacks.colour/
+lifehacks | ![version](https://img.shields.io/pypi/v/lifehacks?label=) | https://pypi.org/project/lifehacks/
