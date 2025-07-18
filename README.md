@@ -1,30 +1,34 @@
 <table>
 	<tr>
-		<td colspan="4">
+		<td colspan="3">
 			<pre>
-🇳🇿 Kia ora,
-🇩🇪 Hallo, ich heiße Simon 😎
-🇫🇷 Salut, moi c'est Simon 😏
-🇮🇪 Dia duit, is mise Simon 😙
-🇨🇳 嗨, 我叫单泉</pre>
+🥝 Kia ora, how are ya?
+🍻 Hallo, ich heiße Simon. Was geht?
+😙 Salut, moi c'est Simon. Ça dit quoi ?
+🍀 Dia duit, an bhfuil tú go maith?</pre>
 		</td>
 		<td rowspan="5">
 			<a href="https://github.com/mightbesimon/profile.bash">
 				<img alt="terminal" src="assets/terminal.png">
 			</a>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="4">
-			<pre><h1>Hi, I'm Simon 👋</h1></pre>
+			<pre>from Auckland, New Zealand ∙ in Darmstadt, Germany</pre>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="3">
-			<a href="https://mightbesimon.com">mightbesimon.com</a>
+			<pre><h1>Hi, I'm Simon 👋</h1></pre>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<a href="https://mightbesimon.com">
+				mightbesimon.com
+			</a>
 		</td>
 		<td>
-			Auckland, NZ
+			<a href="https://docs.google.com/document/d/1OzGqEJ2yYrRVEd3Z3o93YvTx9lXGiNsxcWZ6m7upuCA/">
+				📄 Need my CV?
+			</a>
 		</td>
 	</tr>
 	<tr>
@@ -39,42 +43,31 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://mightbesimon.com">
-				<img height="24" alt="mightbesimon.com" src="https://mightbesimon.com/favicon.ico" />
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/sponsors/mightbesimon">
-				<img height="24" alt="sponsor" src="https://img.shields.io/badge/%F0%9F%91%89_Sponsor_%F0%9F%91%88-d73a49" />
+			<a href="https://docs.google.com/document/d/1OzGqEJ2yYrRVEd3Z3o93YvTx9lXGiNsxcWZ6m7upuCA/">
+				📄 Besoin de mon CV ?
 			</a>
 		</td>
 	</tr>
 	<tr>
-		<td colspan="4">
+		<td colspan="3">
 			<pre>
-💻╌╌╌╌╌ os : macOS
-🐚╌╌ shell : /bin/bash
-🧑‍💻╌ editor : [ vscode, sublime ]
-🎨╌╌ theme : mariana</pre>
+    os 💻 macOS
+ shell 🐚 /bin/bash
+editor ⌨️ [ vscode, sublime ]
+ theme 🎨 mariana</pre>
 		</td>
 	</tr>
 </table>
 
-## My VS Marketplace Publisher Profile
+## My VSCode Marketplace Publisher Profile
 
 > https://marketplace.visualstudio.com/publishers/mightbesimon
 
 vscode extension | version | installs | marketplace id
 ---------------- | ------- | -------- | --------------
-Emoji File Icons | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.emoji-icons?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.emoji-icons?color=white&label=&logo=visualstudiocode&logoColor=blue) | [mightbesimon.emoji-icons](https://marketplace.visualstudio.com/items?itemName=mightbesimon.emoji-icons)
-Mariana | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.mariana-sublime?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.mariana-sublime?color=white&label=&logo=visualstudiocode&logoColor=blue) | [mightbesimon.mariana-sublime](https://marketplace.visualstudio.com/items?itemName=mightbesimon.mariana-sublime)
+Emoji File Icons | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.emoji-icons?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.emoji-icons?color=white&label=&logoColor=blue&logo=data:image/png;base64,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) | [mightbesimon.emoji-icons](https://marketplace.visualstudio.com/items?itemName=mightbesimon.emoji-icons)
+Mariana | ![version](https://img.shields.io/visual-studio-marketplace/v/mightbesimon.mariana-sublime?label=) | ![installs](https://img.shields.io/vscode-marketplace/i/mightbesimon.mariana-sublime?color=white&label=&logoColor=blue&logo=data:image/png;base64,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) | [mightbesimon.mariana-sublime](https://marketplace.visualstudio.com/items?itemName=mightbesimon.mariana-sublime)
 
 ## My pypi.org Publisher Profile
 
 > https://pypi.org/user/mightbesimon/
-
-python package | version | link
--------------- | ------- | ----
-lifehacks.metaclasses | ![version](https://img.shields.io/pypi/v/lifehacks.metaclasses?label=) | https://pypi.org/project/lifehacks.metaclasses/
-lifehacks.colour | ![version](https://img.shields.io/pypi/v/lifehacks.colour?label=) | https://pypi.org/project/lifehacks.colour/
-lifehacks | ![version](https://img.shields.io/pypi/v/lifehacks?label=) | https://pypi.org/project/lifehacks/
